@@ -1,0 +1,4 @@
+I am a postdoc in the Department of Statistics and Data Science at National University of Singapore, working with Professor Zhenhua Lin. 
+I received my Ph.D. degree in 2021 from the Department of Probability and Statistics at Peking University, advised by Professor Fang Yao. 
+I was a visiting Ph.D. student in 2019 in the Department of Statistics and Data Science at Carnegie Mellon University, working with Professor Jing Lei.
+My research interest lies in the high-dimensional data analysis and functional data analysis. 
